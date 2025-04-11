@@ -37,7 +37,7 @@ To jest przykładowy akapit tekstowy.
 Pojęcie
     Definicja
 
-.. image:: https://www.google.com/imgres?q=piesek&imgurl=https%3A%2F%2Fwww.pastelowelove.pl%2Fenvironment%2Fcache%2Fimages%2F1100_1100_productGfx_3837%2Fpiesek-rysiu--naklejka.-naklejka-dla-dzieci.-dekoracje-pokoju.webp&imgrefurl=https%3A%2F%2Fwww.pastelowelove.pl%2Fnaklejki%2Fzwierzeta%2Fpiesek-rysiu-duzy.html&docid=XvZp33JKNLpw2M&tbnid=A_K-hkWlcSyI_M&vet=12ahUKEwj-wpLYwc-MAxVdJxAIHWCIPJUQM3oECBwQAA..i&w=1100&h=1100&hcb=2&ved=2ahUKEwj-wpLYwc-MAxVdJxAIHWCIPJUQM3oECBwQAA
+.. image:: https://www.werandacountry.pl/cache/1400-650/bfe41a533e4ae75fe529cc4ccb6c5a63/1665487793_ma%C5%82y-piesek1.jpg
    :alt: to ja
 
 +-------------+------------+
