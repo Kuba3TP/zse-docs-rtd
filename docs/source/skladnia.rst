@@ -1,5 +1,5 @@
 ===========
-Skladnia
+Skladnia 
 ===========
 
 Nagłówek 1
