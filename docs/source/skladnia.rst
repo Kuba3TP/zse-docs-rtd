@@ -37,7 +37,7 @@ To jest przykładowy akapit tekstowy.
 Pojęcie
     Definicja
 
-.. image:: https://www.werandacountry.pl/cache/1400-650/bfe41a533e4ae75fe529cc4ccb6c5a63/1665487793_ma%C5%82y-piesek1.jpg
+.. image:: https://github.com/user-attachments/assets/123648a5-65cd-4e99-8125-1ea5593e871d
    :alt: to ja
 
 +-------------+------------+
