@@ -38,7 +38,7 @@ Pojęcie
     Definicja
 
 .. image:: https://github.com/user-attachments/assets/123648a5-65cd-4e99-8125-1ea5593e871d
-   :alt: to ja
+   :alt: jakies zdjecie z repo
 
 +-------------+------------+
 | Kolumna 1   | Kolumna 2  |
